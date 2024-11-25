@@ -1,6 +1,6 @@
 # Calculator 
 
-**Calculator Personal Diary** is a simple yet effective application that combines the functionalities of a basic calculator with a personal diary. It is designed for users who need to perform quick calculations and maintain personal notes in one integrated platform.
+**Calculator ** is a simple yet effective application that combines the functionalities of a basic calculator with a personal diary. It is designed for users who need to perform quick calculations and maintain personal notes in one integrated platform.
 
 ---
 
